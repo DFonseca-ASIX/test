@@ -11,3 +11,5 @@ fwrite($fd2,$comptador);
 fclose($fd2);
 
 echo $comptador;
+
+?>
